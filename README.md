@@ -24,7 +24,7 @@
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://nexus-xmd-session-website.vercel.app/">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+    <img title="nexus~xrF2WA4S#-j_wMMi4aTdo9jQtRuHWvwHuIS9JVrELPFAYQItvqfw" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
 
